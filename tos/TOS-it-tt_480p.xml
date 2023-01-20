@@ -1,0 +1,392 @@
+<tt xml:lang="it" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smpte="http://www.smpte-ra.org/schemas/2052-1/2010/smpte-tt" xsi:schemaLocation="http://www.w3.org/ns/ttml ttaf1-dfxp.xsd http://www.smpte-ra.org/schemas/2052-1/2010/smpte-tt smpte-tt.xsd" tts:extent="854px 480px">
+	<head>
+		<ttm:title>Tear Of Steel Subtitles</ttm:title>
+		<styling>
+			<style xml:id="white_PropSerif_18_L" tts:color="white" tts:fontSize="120%" tts:fontFamily="proportionalSansSerif" tts:textAlign="center" tts:textOutline="black 4%" />
+		</styling>
+		<layout>
+			<region xml:id="subtitleArea1" style="white_PropSerif_18_L" tts:origin="5% 55%" tts:extent="90% 40%" tts:backgroundColor="black" tts:opacity="1.00" tts:displayAlign="center" tts:showBackground="whenActive"/>
+		</layout>
+	</head>
+	<body>
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub1" ttm:role="caption" begin="00:00:23.000" end="00:00:24.500" style="white_PropSerif_18_L">Sei un idiota, Thom.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub2" ttm:role="caption" begin="00:00:25.000" end="00:00:27.000" style="white_PropSerif_18_L">Senti Celia, dobbiamo seguire le nostre passioni;</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub3" ttm:role="caption" begin="00:00:27.000" end="00:00:30.500" style="white_PropSerif_18_L">...tu hai la robotica, io voglio essere fantastico nello spazio!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub4" ttm:role="caption" begin="00:00:30.800" end="00:00:34.000" style="white_PropSerif_18_L">Dillo che la mia mano robotica ti fa senso!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub5" ttm:role="caption" begin="00:00:34.500" end="00:00:36.000" style="white_PropSerif_18_L">Non mi fa senso, è che...</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub6" ttm:role="caption" begin="00:00:37.000" end="00:00:38.000" style="white_PropSerif_18_L">...ok, va bene!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub7" ttm:role="caption" begin="00:00:38.000" end="00:00:41.000" style="white_PropSerif_18_L">Mi spaventa! Ho incubi in cui sono inseguito...</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub8" ttm:role="caption" begin="00:00:41.000" end="00:00:42.000" style="white_PropSerif_18_L">...da enormi artigli della morte...</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub9" ttm:role="caption" begin="00:00:43.000" end="00:00:45.000" style="white_PropSerif_18_L">Basta, Thom. È finita.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub10" ttm:role="caption" begin="00:00:50.000" end="00:00:53.500" style="white_PropSerif_18_L">Memoria del robot sincronizzata e pronta!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub11" ttm:role="caption" begin="00:01:01.000" end="00:01:03.000" style="white_PropSerif_18_L">Piuttosto bizzarro.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub12" ttm:role="caption" begin="00:01:57.000" end="00:01:59.000" style="white_PropSerif_18_L">Non dovresti essere di sotto?</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub13" ttm:role="caption" begin="00:02:11.000" end="00:02:13.000" style="white_PropSerif_18_L">Vi ho sentito parlare, ieri notte.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub14" ttm:role="caption" begin="00:02:16.000" end="00:02:18.000" style="white_PropSerif_18_L">Non è colpa mia, sai.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub15" ttm:role="caption" begin="00:03:11.000" end="00:03:12.000" style="white_PropSerif_18_L">Sei pronto?</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub16" ttm:role="caption" begin="00:03:13.000" end="00:03:15.000" style="white_PropSerif_18_L">Certo che lo sei, sei una rockstar.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub17" ttm:role="caption" begin="00:03:17.000" end="00:03:18.000" style="white_PropSerif_18_L">Com'è la situazione, Barley?</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub18" ttm:role="caption" begin="00:03:19.000" end="00:03:21.000" style="white_PropSerif_18_L">Dovremmo avere dieci minuti circa...</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub19" ttm:role="caption" begin="00:03:21.500" end="00:03:23.000" style="white_PropSerif_18_L">Bene, perfetto.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub20" ttm:role="caption" begin="00:03:23.500" end="00:03:26.500" style="white_PropSerif_18_L">Si parte tra un secondo! Via a tutti i sistemi!
+		Si, tu! Vai!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub21" ttm:role="caption" begin="00:03:28.000" end="00:03:32.000" style="white_PropSerif_18_L">Avanti! Muovete il culo! Via via via!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub22" ttm:role="caption" begin="00:03:33.000" end="00:03:37.000" style="white_PropSerif_18_L">Ottimo! Forza, andiamo!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub23" ttm:role="caption" begin="00:03:43.000" end="00:03:44.000" style="white_PropSerif_18_L">Perfetto.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub24" ttm:role="caption" begin="00:03:44.500" end="00:03:45.700" style="white_PropSerif_18_L">Tutto è sotto controllo.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub25" ttm:role="caption" begin="00:03:46.000" end="00:03:47.000" style="white_PropSerif_18_L">Thom.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub26" ttm:role="caption" begin="00:03:51.000" end="00:03:53.000" style="white_PropSerif_18_L">Eccola lì.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub27" ttm:role="caption" begin="00:03:53.500" end="00:03:54.500" style="white_PropSerif_18_L">Ora.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub28" ttm:role="caption" begin="00:03:55.000" end="00:03:56.000" style="white_PropSerif_18_L">Tu la ami.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub29" ttm:role="caption" begin="00:03:57.000" end="00:03:58.500" style="white_PropSerif_18_L">È la tua passione!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub30" ttm:role="caption" begin="00:04:00.000" end="00:04:01.000" style="white_PropSerif_18_L">Sii tenero con lei.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub31" ttm:role="caption" begin="00:04:01.500" end="00:04:04.500" style="white_PropSerif_18_L">Sii onesto! Eh- sii tenero.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub32" ttm:role="caption" begin="00:04:05.000" end="00:04:08.000" style="white_PropSerif_18_L">Ricordale cos'è l'amore.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub33" ttm:role="caption" begin="00:04:52.000" end="00:04:55.000" style="white_PropSerif_18_L">...e, azione!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub34" ttm:role="caption" begin="00:04:56.500" end="00:04:58.000" style="white_PropSerif_18_L">Sovrascrittura memoria in corso!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub35" ttm:role="caption" begin="00:04:59.000" end="00:05:01.000" style="white_PropSerif_18_L">Sei un idiota, Thom!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub36" ttm:role="caption" begin="00:05:02.500" end="00:05:05.000" style="white_PropSerif_18_L">Oh, scusate! Scusate.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub37" ttm:role="caption" begin="00:05:16.000" end="00:05:17.000" style="white_PropSerif_18_L">Senti, Celia.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub38" ttm:role="caption" begin="00:05:18.000" end="00:05:20.000" style="white_PropSerif_18_L">Dobbiamo seguire le nostre passioni.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub39" ttm:role="caption" begin="00:05:21.000" end="00:05:23.000" style="white_PropSerif_18_L">Tu hai la robotica...</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub40" ttm:role="caption" begin="00:05:25.000" end="00:05:28.000" style="white_PropSerif_18_L">...e io voglio essere fantastico nello spazio.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub41" ttm:role="caption" begin="00:05:39.000" end="00:05:41.000" style="white_PropSerif_18_L">Okay, arrivano. Abbiamo due minuti!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub42" ttm:role="caption" begin="00:05:43.000" end="00:05:44.000" style="white_PropSerif_18_L">Più veloce, Thom!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub43" ttm:role="caption" begin="00:05:45.000" end="00:05:46.000" style="white_PropSerif_18_L">Vivacissimo!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub44" ttm:role="caption" begin="00:05:47.000" end="00:05:50.000" style="white_PropSerif_18_L">Dillo che la mia mano robotica ti fa senso!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub45" ttm:role="caption" begin="00:05:56.000" end="00:05:59.000" style="white_PropSerif_18_L">Senti Celia, ero giovane...</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub46" ttm:role="caption" begin="00:05:59.500" end="00:06:01.000" style="white_PropSerif_18_L">...e stronzo.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub47" ttm:role="caption" begin="00:06:01.000" end="00:06:03.000" style="white_PropSerif_18_L">Ma non è un buon motivo per distruggere il mondo.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub48" ttm:role="caption" begin="00:06:05.000" end="00:06:06.000" style="white_PropSerif_18_L">Perchè fa così?</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub49" ttm:role="caption" begin="00:06:06.500" end="00:06:08.500" style="white_PropSerif_18_L">L'abbiamo già provata questa!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub50" ttm:role="caption" begin="00:06:11.500" end="00:06:12.500" style="white_PropSerif_18_L">Annullare!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub51" ttm:role="caption" begin="00:06:13.000" end="00:06:14.000" style="white_PropSerif_18_L">Taglia!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub52" ttm:role="caption" begin="00:06:14.000" end="00:06:15.000" style="white_PropSerif_18_L">Whoa!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub53" ttm:role="caption" begin="00:06:19.000" end="00:06:20.000" style="white_PropSerif_18_L">Whoa!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub54" ttm:role="caption" begin="00:06:21.000" end="00:06:23.000" style="white_PropSerif_18_L">No!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub55" ttm:role="caption" begin="00:06:23.000" end="00:06:25.000" style="white_PropSerif_18_L">Mi hai spezzato il cuore.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub56" ttm:role="caption" begin="00:06:26.000" end="00:06:27.000" style="white_PropSerif_18_L">Lo so.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub57" ttm:role="caption" begin="00:06:27.000" end="00:06:29.000" style="white_PropSerif_18_L">Mi hai dimenticato sulla terra.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub58" ttm:role="caption" begin="00:06:29.000" end="00:06:30.000" style="white_PropSerif_18_L">Lo so.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub59" ttm:role="caption" begin="00:06:30.500" end="00:06:33.000" style="white_PropSerif_18_L">Dovrei semplicemente schiacciarti!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub60" ttm:role="caption" begin="00:06:36.000" end="00:06:37.000" style="white_PropSerif_18_L">Mi...</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub61" ttm:role="caption" begin="00:06:47.000" end="00:06:48.000" style="white_PropSerif_18_L">Mi dispiace.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub62" ttm:role="caption" begin="00:06:50.000" end="00:06:51.000" style="white_PropSerif_18_L">Bella improvvisazione.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub63" ttm:role="caption" begin="00:06:59.000" end="00:07:00.500" style="white_PropSerif_18_L">Non è colpa mia!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub64" ttm:role="caption" begin="00:07:02.000" end="00:07:03.000" style="white_PropSerif_18_L">Questa volta.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub65" ttm:role="caption" begin="00:07:08.000" end="00:07:09.500" style="white_PropSerif_18_L">Silenzio sul set!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub66" ttm:role="caption" begin="00:07:10.000" end="00:07:11.000" style="white_PropSerif_18_L">Non c'è più tempo!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub67" ttm:role="caption" begin="00:08:13.000" end="00:08:14.000" style="white_PropSerif_18_L">Forza!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub68" ttm:role="caption" begin="00:08:22.000" end="00:08:24.000" style="white_PropSerif_18_L">RAAAAAAAAH!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub69" ttm:role="caption" begin="00:08:24.000" end="00:08:25.000" style="white_PropSerif_18_L">Sovrascrittura memoria, 90%.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub70" ttm:role="caption" begin="00:08:26.000" end="00:08:28.000" style="white_PropSerif_18_L">Capitano! Dobbiamo annullare!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub71" ttm:role="caption" begin="00:08:38.000" end="00:08:40.000" style="white_PropSerif_18_L">Il mondo è cambiato, Celia...</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub72" ttm:role="caption" begin="00:08:54.000" end="00:08:56.000" style="white_PropSerif_18_L">...forse anche noi possiamo.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub73" ttm:role="caption" begin="00:08:58.000" end="00:08:59.000" style="white_PropSerif_18_L">Sovrascrittura memoria completa!</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub74" ttm:role="caption" begin="00:09:19.000" end="00:09:20.000" style="white_PropSerif_18_L">Sai...</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub75" ttm:role="caption" begin="00:09:22.000" end="00:09:24.000" style="white_PropSerif_18_L">C'è una lezione da imparare in tutto questo.</p>
+		</div>
+
+
+		<div region="subtitleArea1" xsi:type="smpte:div.type">
+				<p xml:id="sub76" ttm:role="caption" begin="00:09:26.000" end="00:09:27.000" style="white_PropSerif_18_L">Poteva andare peggio.</p>
+		</div>
+	</body>
+</tt>

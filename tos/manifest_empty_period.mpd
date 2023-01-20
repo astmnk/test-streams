@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD profiles="urn:mpeg:dash:profile:isoff-on-demand:2011" type="static" minBufferTime="PT2S" mediaPresentationDuration="PT12M14S" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:drmtoday="urn:mpeg:drmtdoday:cenc:2014">
+  <ProgramInformation moreInformationURL="www.castLabs.com"/>
+    <Period id="0" start="PT0S" duration="PT12M14S">
+<!--  Empty period  -->
+    </Period>
+</MPD>

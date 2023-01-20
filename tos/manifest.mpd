@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD profiles="urn:mpeg:dash:profile:isoff-on-demand:2011" type="static" minBufferTime="PT2S" mediaPresentationDuration="PT12M14S" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:drmtoday="urn:mpeg:drmtdoday:cenc:2014">
+  <ProgramInformation moreInformationURL="www.castLabs.com"/>
+  <Period id="0" start="PT0S" duration="PT12M14S">
+    <AdaptationSet segmentAlignment="true" startWithSAP="1" bitstreamSwitching="true" mimeType="video/mp4" maxFrameRate="24000/1000" maxWidth="3826" maxHeight="1700" par="1:1">
+      <Representation codecs="avc1.640015" width="640" height="284" frameRate="24000/1000" sar="1:1" id="tearsofsteel_4k.mov_640x284_300.mp4" bandwidth="270500">
+        <BaseURL>tearsofsteel_4k.mov_640x284_300.mp4</BaseURL>
+        <SegmentBase timescale="24000" indexRangeExact="true" indexRange="738-3697">
+          <Initialization range="44-737"/>
+        </SegmentBase>
+      </Representation>
+    </AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="en" bitstreamSwitching="true" mimeType="audio/mp4">
+<Representation codecs="mp4a.40.2" audioSamplingRate="44100" id="tearsofsteel_4k_aac.mp4" bandwidth="125400">
+<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+<BaseURL>tearsofsteel_4k_aac.mp4</BaseURL>
+<SegmentBase timescale="44100" indexRangeExact="true" indexRange="644-2427">
+<Initialization range="44-643"/>
+</SegmentBase>
+</Representation>
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="it" bitstreamSwitching="true" mimeType="audio/mp4">
+<Representation codecs="mp4a.40.2" audioSamplingRate="44100" id="tearsofsteel_4k.ITA_aac.mp4" bandwidth="125400">
+<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+<BaseURL>tearsofsteel_4k.ITA_aac.mp4</BaseURL>
+<SegmentBase timescale="44100" indexRangeExact="true" indexRange="644-2427">
+<Initialization range="44-643"/>
+</SegmentBase>
+</Representation>
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="en" bitstreamSwitching="true" mimeType="audio/mp4">
+<Representation codecs="mp4a.40.29" audioSamplingRate="22050" id="tearsofsteel_4k_heaac.mp4" bandwidth="62700">
+<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="1"/>
+<BaseURL>tearsofsteel_4k_heaac.mp4</BaseURL>
+<SegmentBase timescale="22050" indexRangeExact="true" indexRange="644-2427">
+<Initialization range="44-643"/>
+</SegmentBase>
+</Representation>
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="it" bitstreamSwitching="true" mimeType="audio/mp4">
+<Representation codecs="mp4a.40.29" audioSamplingRate="22050" id="tearsofsteel_4k_ITA.heaac.mp4" bandwidth="62700">
+<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="1"/>
+<BaseURL>tearsofsteel_4k_ITA.heaac.mp4</BaseURL>
+<SegmentBase timescale="22050" indexRangeExact="true" indexRange="644-2427">
+<Initialization range="44-643"/>
+</SegmentBase>
+</Representation>
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="en" bitstreamSwitching="true" mimeType="audio/mp4">
+<Representation codecs="ec-3" audioSamplingRate="48000" id="tearsofsteel_4k.ec3.mp4" bandwidth="128000">
+<AudioChannelConfiguration schemeIdUri="urn:dolby:dash:audio_channel_configuration:2011" value="A000"/>
+<BaseURL>tearsofsteel_4k.ec3.mp4</BaseURL>
+<SegmentBase timescale="48000" indexRangeExact="true" indexRange="618-2401">
+<Initialization range="44-617"/>
+</SegmentBase>
+</Representation>
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="it" bitstreamSwitching="true" mimeType="audio/mp4">
+<Representation codecs="ec-3" audioSamplingRate="48000" id="tearsofsteel_4k.ITA.ec3.mp4" bandwidth="128000">
+<AudioChannelConfiguration schemeIdUri="urn:dolby:dash:audio_channel_configuration:2011" value="A000"/>
+<BaseURL>tearsofsteel_4k.ITA.ec3.mp4</BaseURL>
+<SegmentBase timescale="48000" indexRangeExact="true" indexRange="618-2401">
+<Initialization range="44-617"/>
+</SegmentBase>
+</Representation>
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="en" bitstreamSwitching="true" mimeType="audio/mp4">
+<Representation codecs="ac-3" audioSamplingRate="44100" id="tearsofsteel_4k.ac3.mp4" bandwidth="191700">
+<AudioChannelConfiguration schemeIdUri="urn:dolby:dash:audio_channel_configuration:2011" value="A000"/>
+<BaseURL>tearsofsteel_4k.ac3.mp4</BaseURL>
+<SegmentBase timescale="44100" indexRangeExact="true" indexRange="616-2399">
+<Initialization range="44-615"/>
+</SegmentBase>
+</Representation>
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="en" bitstreamSwitching="true" mimeType="audio/mp4">
+<Representation codecs="dtse" audioSamplingRate="48000" id="tearsofsteel_4k.96k.dtshd.mp4" bandwidth="96000">
+<AudioChannelConfiguration schemeIdUri="urn:dts:dash:audio_channel_configuration:2012" value="2"/>
+<BaseURL>tearsofsteel_4k.96k.dtshd.mp4</BaseURL>
+<SegmentBase timescale="48000" indexRangeExact="true" indexRange="633-2416">
+<Initialization range="44-632"/>
+</SegmentBase>
+</Representation>
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="it" bitstreamSwitching="true" mimeType="audio/mp4">
+<Representation codecs="dtse" audioSamplingRate="48000" id="tearsofsteel_4k.96k_ITA.dtshd.mp4" bandwidth="96000">
+<AudioChannelConfiguration schemeIdUri="urn:dts:dash:audio_channel_configuration:2012" value="2"/>
+<BaseURL>tearsofsteel_4k.96k_ITA.dtshd.mp4</BaseURL>
+<SegmentBase timescale="48000" indexRangeExact="true" indexRange="633-2416">
+<Initialization range="44-632"/>
+</SegmentBase>
+</Representation>
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="en" bitstreamSwitching="true" mimeType="audio/mp4">
+<Representation codecs="dtse" audioSamplingRate="48000" id="tearsofsteel_4k.192k.dtshd.mp4" bandwidth="192000">
+<AudioChannelConfiguration schemeIdUri="urn:dts:dash:audio_channel_configuration:2012" value="2"/>
+<BaseURL>tearsofsteel_4k.192k.dtshd.mp4</BaseURL>
+<SegmentBase timescale="48000" indexRangeExact="true" indexRange="633-2416">
+<Initialization range="44-632"/>
+</SegmentBase>
+</Representation>
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="it" bitstreamSwitching="true" mimeType="audio/mp4">
+<Representation codecs="dtse" audioSamplingRate="48000" id="tearsofsteel_4k.192k_ITA.dtshd.mp4" bandwidth="192000">
+<AudioChannelConfiguration schemeIdUri="urn:dts:dash:audio_channel_configuration:2012" value="2"/>
+<BaseURL>tearsofsteel_4k.192k_ITA.dtshd.mp4</BaseURL>
+<SegmentBase timescale="48000" indexRangeExact="true" indexRange="633-2416">
+<Initialization range="44-632"/>
+</SegmentBase>
+</Representation>
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" subsegmentAlignment="true" subsegmentStartsWithSAP="1" startWithSAP="1" bitstreamSwitching="true" lang="en" mimeType="audio/mp4">
+      <Representation codecs="dtse" audioSamplingRate="48000" id="tearsofsteel_4k.384k_5.1.dtshd.mp4" bandwidth="384000">
+        <AudioChannelConfiguration schemeIdUri="urn:dts:dash:audio_channel_configuration:2012" value="6"/>
+        <BaseURL>tearsofsteel_4k.384k_5.1.dtshd.mp4</BaseURL>
+        <SegmentBase timescale="48000" indexRangeExact="true" indexRange="633-1240">
+          <Initialization range="44-632"/>
+        </SegmentBase>
+      </Representation>
+    </AdaptationSet>
+
+    <AdaptationSet mimeType="application/ttml+xml" lang="fr">
+      <Role schemeIdUri="urn:mpeg:dash:role" value="subtitle"/>
+      <Representation id="TOS-fr-tt_480p" bandwidth="128">
+        <BaseURL>TOS-fr.xml</BaseURL>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet mimeType="application/ttml+xml" lang="en">
+      <Role schemeIdUri="urn:mpeg:dash:role" value="subtitle"/>
+      <Representation id="TOS-en-tt_480p" bandwidth="128">
+        <BaseURL>TOS-en-tt_480p.xml</BaseURL>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet mimeType="application/ttml+xml" lang="it">
+      <Role schemeIdUri="urn:mpeg:dash:role" value="subtitle"/>
+      <Representation id="TOS-it-tt_480p" bandwidth="128">
+        <BaseURL>TOS-it-tt_480p.xml</BaseURL>
+      </Representation>
+    </AdaptationSet>
+        <AdaptationSet mimeType="text/vtt" lang="en">
+                <Representation id="caption_en" bandwidth="256">
+                        <BaseURL>TOS-en.vtt</BaseURL>
+                </Representation>
+        </AdaptationSet>
+        <AdaptationSet mimeType="text/vtt" lang="pt">
+                <Representation id="caption_overlay" bandwidth="256">
+                        <BaseURL>TOS-overlaying.vtt</BaseURL>
+                </Representation>
+        </AdaptationSet>
+        <AdaptationSet mimeType="text/vtt" lang="it">
+                <Representation id="caption_it" bandwidth="256">
+                        <BaseURL>TOS-it.vtt</BaseURL>
+                </Representation>
+        </AdaptationSet>
+
+  </Period>
+</MPD>

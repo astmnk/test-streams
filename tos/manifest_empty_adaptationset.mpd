@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD profiles="urn:mpeg:dash:profile:isoff-on-demand:2011" type="static" minBufferTime="PT2S" mediaPresentationDuration="PT12M14S" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:drmtoday="urn:mpeg:drmtdoday:cenc:2014">
+  <ProgramInformation moreInformationURL="www.castLabs.com"/>
+  <Period id="0" start="PT0S" duration="PT12M14S">
+    <AdaptationSet segmentAlignment="true" startWithSAP="1" bitstreamSwitching="true" mimeType="video/mp4" maxFrameRate="24000/1000" maxWidth="3826" maxHeight="1700" par="1:1">
+<!--    NO (video) Representations    -->
+    </AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="en" bitstreamSwitching="true" mimeType="audio/mp4">
+<Representation codecs="mp4a.40.2" audioSamplingRate="44100" id="tearsofsteel_4k_aac.mp4" bandwidth="125400">
+<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+<!--    NO (audio) Representations    -->
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="it" bitstreamSwitching="true" mimeType="audio/mp4">
+<!--    NO (audio) Representations    -->
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="en" bitstreamSwitching="true" mimeType="audio/mp4">
+<!--    NO (audio) Representations    -->
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="it" bitstreamSwitching="true" mimeType="audio/mp4">
+<!--    NO (audio) Representations    -->
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="en" bitstreamSwitching="true" mimeType="audio/mp4">
+<!--    NO (audio) Representations    -->
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="it" bitstreamSwitching="true" mimeType="audio/mp4">
+<!--    NO (audio) Representations    -->
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="en" bitstreamSwitching="true" mimeType="audio/mp4">
+<!--    NO (audio) Representations    -->
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="en" bitstreamSwitching="true" mimeType="audio/mp4">
+<!--    NO (audio) Representations    -->
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="it" bitstreamSwitching="true" mimeType="audio/mp4">
+<!--    NO (audio) Representations    -->
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="en" bitstreamSwitching="true" mimeType="audio/mp4">
+<!--    NO (audio) Representations    -->
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" startWithSAP="1" lang="it" bitstreamSwitching="true" mimeType="audio/mp4">
+<!--    NO (audio) Representations    -->
+</AdaptationSet>
+<AdaptationSet segmentAlignment="true" subsegmentAlignment="true" subsegmentStartsWithSAP="1" startWithSAP="1" bitstreamSwitching="true" lang="en" mimeType="audio/mp4">
+<!--    NO (audio) Representations    -->
+</AdaptationSet>
+</Period>
+</MPD>
