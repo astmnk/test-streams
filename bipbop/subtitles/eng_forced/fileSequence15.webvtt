@@ -1,0 +1,19 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:07:29.000 --> 00:07:31.000 line:75%
+English subtitle 15 -Forced- (00:07:27.000)
+line:75%
+
+00:07:39.000 --> 00:07:41.000 align:end line:100%
+English subtitle 20 -Forced- (00:07:39.000)
+align:end line:100%
+
+00:07:49.000 --> 00:07:51.000 align:middle line:100%
+English subtitle 25 -Forced- (00:07:49.000)
+align:middle line:100%
+
+00:07:57.000 --> 00:07:59.000
+English subtitle 29 -Forced- (00:07:57.000)
+1 Minute subtilte sample complete - will now repeat
+

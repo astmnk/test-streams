@@ -1,0 +1,15 @@
+WEBVTT
+X-TIMESTAMP-MAP=MPEGTS:900000,LOCAL:00:00:00.000
+
+00:26:09.000 --> 00:26:11.000
+<u>English subtitle 5 -Forced- (00:26:09.000)</u>
+<i>Italics</i> - <b>BOLD</b> - <u>UNDERLINE</u>
+
+00:26:19.000 --> 00:26:21.000 size:25%
+English subtitle 10 -Forced- (00:26:19.000)
+size:25%
+
+00:26:29.000 --> 00:26:31.000 line:75%
+English subtitle 15 -Forced- (00:26:27.000)
+line:75%
+
