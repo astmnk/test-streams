@@ -5,6 +5,7 @@
     <AdaptationSet segmentAlignment="true" startWithSAP="1" bitstreamSwitching="true" mimeType="video/mp4" maxFrameRate="24000/1000" maxWidth="3826" maxHeight="1700" par="1:1">
       <Representation codecs="avc1.640015" width="640" height="284" frameRate="24000/1000" sar="1:1" id="tearsofsteel_4k.mov_640x284_300.mp4" bandwidth="270500">
         <BaseURL>tearsofsteel_4k.mov_640x284_300.mp4</BaseURL>
+        <!-- Missing segment info/ attributes -->
         <SegmentBase>
           <Initialization range="44-737"/>
         </SegmentBase>
